@@ -1,11 +1,12 @@
 # Izmir-Investment-Prediction-Project
 
-1. Introduction: Business Problem
+## 1. Introduction: 
+Business Problem
 Turkish metropolitan city Izmir has population of 4.36 million. It makes Izmir the third most populous city in Turkey and the fourth in Mediterranean Sea. Izmir consist of 11 urban districts – namely Balcova, Bayrakli, Bornova, Buca, Cigli, Gaziemir, Guzelbahce, Karabaglar, Karsiyaka, Konak, and Narlidere – and additionally 19 rural districts – namely Aliaga, Bayindir, Bergama, Beydag, Cesme, Dikili, Foca, Karaburun, Kemalpasa, Kinik, Kiraz, Menderes, Menemen, Odemis, Seferihisar, Selcuk, Tire, Torbalı, Urla –. [1]
 Located on the west coast of Turkey, Izmir includes two ports – namely Aliaga Port and Izmir Alsancak Port – that are the primary ports of Turkey for exports. Particularly Izmir Alsancak Port is the biggest container port of Turkey with a capacity of 10 million tons. Thanks to capacity of exports and imports, there are vast industrial zones from various branches of industry, especially high-tech industry. Apart from industry, Izmir is one of the centers of modern agriculture and animal husbandry because of its fertile lands, favorable climatic conditions, rich water resources, and biodiversity. Today, Izmir is the second largest commercial hub in Turkey. [2] According to Brookings Institution Global Metro Monitor, Izmir is the world’s second fastest growing metropolitan economy. [3] Moreover, hundreds of thousands of tourists come to Izmir every year to vacation in coastal towns such as Cesme, Seferihisar, Urla, and Foca, and to visit ancient heritages and religious areas in Selcuk and Bergama. [4] 
 All those factors mentioned above make Izmir attractive for investment. As a result of this, the number of Turkish citizens and foreign people who immigrate to Izmir rises day by day. [2] This situation induces sharply increase property prices in Izmir. Izmir has become the most profitable city of Turkey in which house rents increase most recently. [5] Prediction of new areas that may have the potential to appreciate in value is vital for investors or for those who think to buy a new house. I aimed to meet this requirement in this project. Boroughs of Izmir were clustered based on the venues that they have. Then, the clusters were compared with sold house prices to reveal patterns behind house prices.
 
-2. Data
+## 2. Data:
 In project four data sources will be used:
 •	An open-source API, which is publicly available in GitHub, is used to retrieve longitude and latitude coordinates of the center of boroughs. [6] The API includes coordinates of all cities and boroughs in Turkey. The information of Izmir is parsed through URL query.  
 •	I mentioned above that similar boroughs were clustered by exploiting venues that they have. By using the center coordinates, the most common venues with their features in neighborhoods are retrieved from Foursquare API through URL query. [7]
