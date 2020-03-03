@@ -13,14 +13,14 @@ In project four data sources will be used:
 •	The average sales price of houses sold in Izmir are taken from Endeksa that is one of the most popular property price index companies in Turkey. [8]  
 •	The geolocation data of polygons that draw the boundary of boroughs of Izmir are retrieved from Second-level Administrative Divisions of the Turkey from Spatial Data Repository of NYU. [9] The data contains the geolocation of whole cities and boroughs in Turkey. The data of Izmir was parsed from all geojson files. It will be used to create choropleth map.
 
-References
-[1] “İzmir.” Wikipedia. Wikimedia Foundation, February 28, 2020. https://en.wikipedia.org/wiki/İzmir. 
-[2] “Economy Of İzmir.” Izto. Accessed March 1, 2020. http://www.izto.org.tr/en/izmir-ekonomisi.
-[3] “Tourism of İzmir.” Izto. Accessed March 1, 2020. http://www.izto.org.tr/en/izmir-turizmi.
-[4] Trujillo, Jesus Leal, and Joseph Parilla. “The World's 10 Fastest Growing Metropolitan Areas.” Brookings. Brookings, August 8, 2019. https://www.brookings.edu/blog/the-avenue/2015/02/10/the-worlds-10-fastest-growing-metropolitan-areas/.
-[5] “REIDIN Emlak Endeks 2018 Temmuz Ayı Sonuçları.” REIDIN, September 17, 2018. https://blog.reidin.com/reidin-emlak-endeks-2018-temmuz-ayi-sonuclari/.
-[6] https://github.com/melihkorkmaz/il-ilce-mahalle-geolocation-rest-api
-[7] https://developer.foursquare.com/
-[8] https://www.endeksa.com/en/analiz/izmir/endeks/for-sale/house
-[9] Second-level Administrative Divisions, 2. (2020). Second-level Administrative Divisions, Turkey, 2015 - NYU Spatial Data Repository. [online] Geo.nyu.edu. https://geo.nyu.edu/catalog/stanford-nj696zj1674
+### References
+[1] “İzmir.” Wikipedia. Wikimedia Foundation, February 28, 2020. https://en.wikipedia.org/wiki/İzmir.   
+[2] “Economy Of İzmir.” Izto. Accessed March 1, 2020. http://www.izto.org.tr/en/izmir-ekonomisi.  
+[3] “Tourism of İzmir.” Izto. Accessed March 1, 2020. http://www.izto.org.tr/en/izmir-turizmi.  
+[4] Trujillo, Jesus Leal, and Joseph Parilla. “The World's 10 Fastest Growing Metropolitan Areas.” Brookings. Brookings, August 8, 2019. https://www.brookings.edu/blog/the-avenue/2015/02/10/the-worlds-10-fastest-growing-metropolitan-areas/.  
+[5] “REIDIN Emlak Endeks 2018 Temmuz Ayı Sonuçları.” REIDIN, September 17, 2018. https://blog.reidin.com/reidin-emlak-endeks-2018-temmuz-ayi-sonuclari/.  
+[6] https://github.com/melihkorkmaz/il-ilce-mahalle-geolocation-rest-api  
+[7] https://developer.foursquare.com/  
+[8] https://www.endeksa.com/en/analiz/izmir/endeks/for-sale/house  
+[9] Second-level Administrative Divisions, 2. (2020). Second-level Administrative Divisions, Turkey, 2015 - NYU Spatial Data Repository. [online] Geo.nyu.edu. https://geo.nyu.edu/catalog/stanford-nj696zj1674  
 [10] Özdalgıç, Aytaç. “Türkiye'nin En Pahalı 50 Ilçesi.” Tapusor.com, October 19, 2018. https://tapusor.com/blog/turkiyenin-en-pahali-50-ilcesi/.
