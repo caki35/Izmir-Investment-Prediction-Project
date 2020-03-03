@@ -8,9 +8,9 @@ All those factors mentioned above make Izmir attractive for investment. As a res
 
 ## 2. Data:
 In project four data sources will be used:  
-•	An open-source API, which is publicly available in GitHub, is used to retrieve longitude and latitude coordinates of the center of boroughs. [6] The API includes coordinates of all cities and boroughs in Turkey. The information of Izmir is parsed through URL query.
-•	I mentioned above that similar boroughs were clustered by exploiting venues that they have. By using the center coordinates, the most common venues with their features in neighborhoods are retrieved from Foursquare API through URL query. [7]
-•	The average sales price of houses sold in Izmir are taken from Endeksa that is one of the most popular property price index companies in Turkey. [8]
+•	An open-source API, which is publicly available in GitHub, is used to retrieve longitude and latitude coordinates of the center of boroughs. [6] The API includes coordinates of all cities and boroughs in Turkey. The information of Izmir is parsed through URL query.  
+•	I mentioned above that similar boroughs were clustered by exploiting venues that they have. By using the center coordinates, the most common venues with their features in neighborhoods are retrieved from Foursquare API through URL query. [7]  
+•	The average sales price of houses sold in Izmir are taken from Endeksa that is one of the most popular property price index companies in Turkey. [8]  
 •	The geolocation data of polygons that draw the boundary of boroughs of Izmir are retrieved from Second-level Administrative Divisions of the Turkey from Spatial Data Repository of NYU. [9] The data contains the geolocation of whole cities and boroughs in Turkey. The data of Izmir was parsed from all geojson files. It will be used to create choropleth map.
 
 References
