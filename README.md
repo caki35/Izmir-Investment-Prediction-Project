@@ -7,7 +7,7 @@ Located on the west coast of Turkey, Izmir includes two ports – namely Aliaga 
 All those factors mentioned above make Izmir attractive for investment. As a result of this, the number of Turkish citizens and foreign people who immigrate to Izmir rises day by day. [2] This situation induces sharply increase property prices in Izmir. Izmir has become the most profitable city of Turkey in which house rents increase most recently. [5] Prediction of new areas that may have the potential to appreciate in value is vital for investors or for those who think to buy a new house. I aimed to meet this requirement in this project. Boroughs of Izmir were clustered based on the venues that they have. Then, the clusters were compared with sold house prices to reveal patterns behind house prices.
 
 ## 2. Data:
-In project four data sources will be used:
+In project four data sources will be used:  
 •	An open-source API, which is publicly available in GitHub, is used to retrieve longitude and latitude coordinates of the center of boroughs. [6] The API includes coordinates of all cities and boroughs in Turkey. The information of Izmir is parsed through URL query.
 •	I mentioned above that similar boroughs were clustered by exploiting venues that they have. By using the center coordinates, the most common venues with their features in neighborhoods are retrieved from Foursquare API through URL query. [7]
 •	The average sales price of houses sold in Izmir are taken from Endeksa that is one of the most popular property price index companies in Turkey. [8]
